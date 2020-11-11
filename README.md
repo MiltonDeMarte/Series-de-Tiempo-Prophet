@@ -2,7 +2,10 @@ Time Series Project by Milton De Marte (25/10/2020 - 11/11/2020)
 
 # Proyecto 4 / Series de Tiempo con Prophet - ACAMICA
 
-### Continuación del Proyecto 3(Series de Tiempo). Se emplea nuevo modelo Prophet y se evalúa su desempeño.
+### Continuación del Proyecto 3(Series de Tiempo). Se emplea nuevo modelo Prophet y se evalúa su desempeño confrontando con SARIMAX.
+
+
+#### ¡Es muy importante, primero que nada, descomprimir el archivo RAR. Asi se podra ejecutar todo el NB sin problemas!
 
 ------ LIBRERIAS QUE CONTIENE EL AMBIENTE DE ANACONDA ------
 
