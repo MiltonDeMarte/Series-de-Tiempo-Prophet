@@ -1,6 +1,8 @@
 Time Series Project by Milton De Marte (25/10/2020 - 11/11/2020)
 
-## Continuación del Proyecto 3 (Series de Tiempo). Se emplea nuevo modelo Prophet y se evalúa su desempeño.
+# Proyecto 4 / Series de Tiempo con Prophet - ACAMICA
+
+### Continuación del Proyecto 3(Series de Tiempo). Se emplea nuevo modelo Prophet y se evalúa su desempeño.
 
 ------ LIBRERIAS QUE CONTIENE EL AMBIENTE DE ANACONDA ------
 
